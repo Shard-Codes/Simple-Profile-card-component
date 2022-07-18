@@ -21,7 +21,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Frontend mentor solution link](https://your-solution-url.com)
+- Solution URL: [Frontend mentor solution link](https://www.frontendmentor.io/solutions/simple-profile-card-component-made-with-html-and-css-3qDkZ_ByRK)
 - Live Site URL: [Deployed project link](https://simple-profile-component.netlify.app/)
 
 ## My process
