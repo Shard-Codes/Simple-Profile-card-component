@@ -10,6 +10,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
   - [Built with](#built-with)
   - [Author](#author)
 
+## Overview
 ### The challenge
 
 - Build out the project to the designs provided
